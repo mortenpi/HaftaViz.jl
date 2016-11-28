@@ -1,0 +1,8 @@
+# You also need to have the Hafta.jl package.
+#
+#     https://github.com/mortenpi/Hafta.jl
+#
+# If missing, it will be installed by the deps/build.jl script.
+#
+Formatting
+Gadfly
